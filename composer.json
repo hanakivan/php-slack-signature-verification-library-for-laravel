@@ -1,0 +1,24 @@
+{
+    "name": "hanakivan/php-slack-signature-verification-library-for-laravel",
+    "description": "PHP implementation of slack's API signature verification for laravel.",
+    "license" : "MIT",
+    "type" : "package",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Ivan Hanak",
+            "email": "packagist@ivanhanak.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "hanakivan\\": "src/hanakivan/"
+        }
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/http": "^7.22",
+        "nesbot/carbon": "^2.37"
+    }
+}
