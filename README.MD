@@ -10,7 +10,7 @@ $ composer require hanakivan/php-slack-signature-verification-library-for-larave
 ```json
 {
     "require": {
-        "hanakivan/php-slack-signature-verification-library-for-laravel": "^1.0"
+        "hanakivan/php-slack-signature-verification-library-for-laravel": "^2.0"
     }
 }
 ```
