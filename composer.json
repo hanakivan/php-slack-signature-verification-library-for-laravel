@@ -3,7 +3,7 @@
     "description": "PHP implementation of slack's API signature verification for laravel.",
     "license" : "MIT",
     "type" : "package",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Ivan Hanak",
@@ -18,7 +18,7 @@
     "prefer-stable": true,
     "minimum-stability": "dev",
     "require": {
-        "illuminate/http": "^7.22",
-        "nesbot/carbon": "^2.37"
+        "illuminate/http": "^7.0",
+        "nesbot/carbon": "^2.0"
     }
 }
